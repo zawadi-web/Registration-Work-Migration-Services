@@ -272,7 +272,7 @@ function initContactForms() {
         // Show success alert
         showToast(
           "Message Received!",
-          "Thank you for contacting RWMS (Registration, Work & Migration Services). A document consultant will review your message and reply via email or phone shortly."
+          "Thank you for contacting Registration, Work & Migration Services. A document consultant will review your message and reply via email or phone shortly."
         );
       }, 1200);
     });
